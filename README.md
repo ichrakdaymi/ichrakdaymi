@@ -24,7 +24,7 @@
 
 <p align="left">
   I'm Daymi Ichrak, an IT student from Tunisia. <br><br>
-  - 🔭 I’m currently studying computer science anworking on personal projects and tutorials to develop my skills.<br>
+  - 🔭 I’m currently studying computer science ,working on personal projects and tutorials to develop my skills.<br>
   - 📚 I'm currently learning about web development, software engineering, and new programming languages.<br>
   - ⚡ In my free time, I enjoy coding, exploring new technologies and  problem solving.
 </p>
